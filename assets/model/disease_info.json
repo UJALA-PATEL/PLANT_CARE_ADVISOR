@@ -1,0 +1,2515 @@
+{
+  "Apple___Apple_scab": {
+    "scientific_name": "Venturia inaequalis",
+    "common_name": "Apple Scab",
+    "description": "Apple scab is a fungal disease that causes dark, scaly lesions on leaves and fruit, reducing fruit quality and yield.",
+    "symptoms": [
+      "Olive-green or black spots on leaves",
+      "Scaly, cracked lesions on fruit",
+      "Premature leaf drop",
+      "Reduced fruit size and quality"
+    ],
+    "causes": [
+      "Fungal spores spread through wind and rain",
+      "High humidity and wet conditions",
+      "Poor air circulation around plants"
+    ],
+    "risk_factor": [
+      "Frequent rainfall",
+      "Dense orchard plantations",
+      "Lack of proper pruning"
+    ],
+    "prevention": [
+      "Plant disease-resistant apple varieties",
+      "Ensure proper air circulation by pruning trees",
+      "Avoid overhead watering"
+    ],
+    "best_practices": [
+      "Use mulch to prevent fungal spores from splashing onto leaves",
+      "Remove and dispose of infected leaves and fruit",
+      "Rotate fungicides to prevent resistance"
+    ],
+    "climate_soil": {
+      "preferred_climate": "Cool and humid conditions favor the disease",
+      "soil_requirements": "Well-drained soil with good organic matter"
+    },
+    "resistant_varieties": [
+      "Enterprise",
+      "Liberty",
+      "Freedom",
+      "GoldRush"
+    ],
+    "treatments": {
+      "chemical": [
+        "Apply fungicides like Captan or Myclobutanil during early spring"
+      ],
+      "organic": [
+        "Use sulfur or copper-based sprays as a preventive measure"
+      ],
+      "biological": [
+        "Introduce beneficial fungi like Trichoderma spp. to suppress the pathogen"
+      ],
+      "diy": [
+        "Make a baking soda spray (1 tsp baking soda + 1 quart water) and apply weekly"
+      ],
+      "step_by_step": [
+        "Inspect trees regularly for early signs of infection",
+        "Apply fungicides before rainy seasons",
+        "Remove infected leaves and fruit promptly",
+        "Ensure proper pruning for better airflow"
+      ]
+    },
+    "recovery": {
+      "monitoring": "Check leaves and fruit regularly for reinfection signs",
+      "nutrient_boost": "Use balanced fertilizers to strengthen plant immunity",
+      "soil_treatment": "Apply compost to improve soil health and reduce fungal spores"
+    },
+    "expert_advice": {
+      "pro_tips": [
+        "Prune trees annually to reduce moisture retention",
+        "Choose resistant varieties for long-term management"
+      ],
+      "mistakes": [
+        "Neglecting to remove infected leaves in fall",
+        "Overwatering or using overhead irrigation"
+      ],
+      "faq": {
+        "Can I eat apples with scab?": "Yes, but they may have reduced quality. Peel the skin to remove scabby areas.",
+        "Does apple scab affect all apple varieties?": "No, some varieties are more resistant than others."
+      }
+    },
+    "market": {
+      "best_products": [
+        "Bonide Copper Fungicide",
+        "Serenade Garden Disease Control",
+        "Daconil Fungicide"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local garden centers",
+        "Agricultural supply stores"
+      ]
+    }
+  },
+  "Apple___Black_rot": {
+    "scientific_name": "Botryosphaeria obtusa",
+    "common_name": "Black Rot",
+    "description": "Black rot in apples is a fungal disease that leads to sunken lesions on fruit, leaf spots, and fruit decay, significantly affecting yield.",
+    "symptoms": [
+      "Dark brown, sunken lesions on fruit",
+      "Circular, purple spots on leaves that turn brown",
+      "Canker formation on branches and twigs",
+      "Shriveled, mummified fruits remaining on the tree"
+    ],
+    "causes": [
+      "Fungal spores spread by wind, rain, and pruning tools",
+      "Warm and humid conditions favor fungal growth",
+      "Infected plant debris and leftover fruit provide breeding grounds"
+    ],
+    "risk_factor": [
+      "High humidity and prolonged wet conditions",
+      "Improper sanitation in orchards",
+      "Wounds on branches that allow fungal entry"
+    ],
+    "prevention": [
+      "Remove and destroy infected leaves and fruits",
+      "Prune trees properly to improve air circulation",
+      "Avoid wounding branches during maintenance"
+    ],
+    "best_practices": [
+      "Apply fungicides before rainy seasons",
+      "Maintain good orchard hygiene by clearing fallen leaves and debris",
+      "Use disease-resistant apple varieties when possible"
+    ],
+    "climate_soil": {
+      "preferred_climate": "Warm, humid conditions accelerate disease spread",
+      "soil_requirements": "Well-drained soil with proper nutrient balance"
+    },
+    "resistant_varieties": [
+      "Liberty",
+      "Enterprise",
+      "GoldRush",
+      "Freedom"
+    ],
+    "treatments": {
+      "chemical": [
+        "Use fungicides like Captan, Mancozeb, or Myclobutanil during early spring"
+      ],
+      "organic": [
+        "Apply copper-based sprays for early prevention",
+        "Neem oil can help suppress fungal spread"
+      ],
+      "biological": [
+        "Introduce Trichoderma spp. to suppress fungal pathogens",
+        "Encourage natural predators that feed on infected plant debris"
+      ],
+      "diy": [
+        "Prepare a baking soda solution (1 tsp baking soda + 1 quart water) and spray weekly"
+      ],
+      "step_by_step": [
+        "Monitor trees for early signs of infection",
+        "Prune infected branches and remove diseased fruits",
+        "Apply preventive fungicides before wet seasons",
+        "Maintain proper orchard hygiene and air circulation"
+      ]
+    },
+    "recovery": {
+      "monitoring": "Regularly check trees for new infections and remove affected parts",
+      "nutrient_boost": "Use potassium-rich fertilizers to improve plant resilience",
+      "soil_treatment": "Mulch with compost to enhance soil health and suppress fungal spores"
+    },
+    "expert_advice": {
+      "pro_tips": [
+        "Burn or dispose of infected plant material far from the orchard",
+        "Use proper pruning techniques to avoid unnecessary wounds"
+      ],
+      "mistakes": [
+        "Leaving infected fruits on the tree or ground",
+        "Over-fertilizing, which can make trees more susceptible to infection"
+      ],
+      "faq": {
+        "Can I eat apples with black rot?": "No, infected apples should not be consumed due to fungal contamination.",
+        "How quickly does black rot spread?": "It spreads rapidly in warm, humid conditions, especially if sanitation is poor."
+      }
+    },
+    "market": {
+      "best_products": [
+        "Bonide Copper Fungicide",
+        "Daconil Fungicide",
+        "Serenade Organic Disease Control"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local garden supply stores",
+        "Agricultural co-ops"
+      ]
+    }
+  },
+  "Apple___Cedar_apple_rust": {
+    "scientific_name": "Gymnosporangium juniperi-virginianae",
+    "common_name": "Cedar Apple Rust",
+    "description": "A fungal disease that causes orange spots on apple leaves, leading to defoliation and reduced fruit yield. It spreads between apple and cedar trees.",
+    "symptoms": [
+      "Bright orange or yellow spots on leaves",
+      "Gelatinous spore masses on infected trees",
+      "Premature leaf drop",
+      "Deformed or small fruit with dark spots"
+    ],
+    "causes": [
+      "Fungal spores spread from cedar trees to apple trees",
+      "Wet and humid weather conditions favor disease development",
+      "Overcrowded orchards with poor air circulation"
+    ],
+    "risk_factor": [
+      "Presence of nearby cedar trees",
+      "High humidity and wet weather in spring",
+      "Lack of preventive fungicide applications"
+    ],
+    "prevention": [
+      "Remove nearby cedar trees or prune infected branches",
+      "Plant resistant apple varieties",
+      "Apply fungicides in early spring"
+    ],
+    "best_practices": [
+      "Monitor leaves for early symptoms",
+      "Prune affected branches to reduce fungal spread",
+      "Use fungicides before wet seasons"
+    ],
+    "climate_soil": {
+      "preferred_climate": "Moderate to humid climates favor fungal growth",
+      "soil_requirements": "Well-drained soil with good nutrient balance"
+    },
+    "resistant_varieties": [
+      "Enterprise",
+      "Liberty",
+      "Freedom",
+      "GoldRush"
+    ],
+    "treatments": {
+      "chemical": [
+        "Apply fungicides like Myclobutanil, Mancozeb, or Propiconazole before bud break"
+      ],
+      "organic": [
+        "Use sulfur-based sprays as a preventive measure",
+        "Neem oil can help reduce fungal spread"
+      ],
+      "biological": [
+        "Introduce Bacillus subtilis to help suppress fungal spores",
+        "Encourage natural fungi-fighting microbes in the soil"
+      ],
+      "diy": [
+        "Mix 1 tbsp baking soda with 1 gallon of water and spray weekly"
+      ],
+      "step_by_step": [
+        "Monitor for early symptoms on leaves",
+        "Prune and remove infected leaves",
+        "Apply fungicides before rainy seasons",
+        "Keep apple trees away from cedar trees"
+      ]
+    },
+    "recovery": {
+      "monitoring": "Check trees regularly for new infections and remove affected parts",
+      "nutrient_boost": "Use compost or organic fertilizers to enhance plant health",
+      "soil_treatment": "Maintain proper soil drainage to prevent fungal buildup"
+    },
+    "expert_advice": {
+      "pro_tips": [
+        "Plant resistant varieties to minimize risk",
+        "Prune apple and cedar trees to improve air circulation"
+      ],
+      "mistakes": [
+        "Ignoring cedar trees near apple orchards",
+        "Not applying preventive fungicides in early spring"
+      ],
+      "faq": {
+        "Can cedar apple rust kill my apple tree?": "It weakens the tree but rarely kills it if managed properly.",
+        "How far should cedar trees be from apple trees?": "At least 300-500 feet to reduce fungal spread."
+      }
+    },
+    "market": {
+      "best_products": [
+        "Bonide Fung-onil",
+        "Spectracide Immunox",
+        "Sulfur Plant Fungicide"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local garden supply stores",
+        "Agricultural nurseries"
+      ]
+    }
+  },
+  "Apple___healthy": {
+    "scientific_name": "Malus domestica",
+    "common_name": "Healthy Apple Tree",
+    "description": "No disease detected. The apple plant is in optimal health with no visible infections or damage.",
+    "symptoms": [
+      "Green, vibrant leaves with no spots or discoloration",
+      "Firm, healthy fruits with no lesions",
+      "Strong branches without cankers or decay"
+    ],
+    "causes": [
+      "Proper watering and fertilization",
+      "Good air circulation preventing fungal infections",
+      "Absence of pest infestations"
+    ],
+    "risk_factor": [
+      "Sudden weather changes affecting growth",
+      "Nearby infected plants spreading diseases",
+      "Lack of routine maintenance"
+    ],
+    "prevention": [
+      "Regular pruning to improve air circulation",
+      "Applying organic mulch to retain soil moisture",
+      "Inspecting for early signs of disease or pests"
+    ],
+    "best_practices": [
+      "Watering appropriately based on climate conditions",
+      "Using disease-resistant apple varieties",
+      "Applying natural pest deterrents when needed"
+    ],
+    "climate_soil": {
+      "preferred_climate": "Temperate climate with well-distributed rainfall",
+      "soil_requirements": "Loamy, well-drained soil rich in organic matter"
+    },
+    "resistant_varieties": [
+      "Liberty",
+      "Enterprise",
+      "Freedom"
+    ],
+    "treatments": {
+      "chemical": "No treatment needed for a healthy tree",
+      "organic": "Maintain health with organic compost and fertilizers",
+      "biological": "Encourage beneficial insects like ladybugs for natural pest control",
+      "diy": "Use neem oil occasionally to prevent pests and fungal infections",
+      "step_by_step": [
+        "Ensure proper watering without overwatering",
+        "Prune regularly for better airflow",
+        "Monitor tree health and apply organic treatments when necessary"
+      ]
+    },
+    "recovery": {
+      "monitoring": "Regularly check leaves, fruits, and branches for any signs of disease",
+      "nutrient_boost": "Apply balanced fertilizers like compost tea",
+      "soil_treatment": "Use mulch to maintain moisture and improve soil quality"
+    },
+    "expert_advice": {
+      "pro_tips": [
+        "Mulch around the base of the tree to retain moisture",
+        "Rotate between different organic fertilizers to improve soil health"
+      ],
+      "mistakes": [
+        "Overwatering, which can lead to root rot",
+        "Neglecting to prune, leading to poor airflow and increased disease risk"
+      ],
+      "faq": {
+        "How often should I water my apple tree?": "Once a week, deeply, unless there is consistent rainfall.",
+        "Do healthy apple trees need pesticides?": "Not necessarily; organic methods can keep pests under control."
+      }
+    },
+    "market": {
+      "best_products": [
+        "Dr. Earth Organic Fertilizer",
+        "Jobe's Fruit Tree Spikes",
+        "Espoma Citrus-Tone"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local garden centers",
+        "Organic farming supply stores"
+      ]
+    }
+  },
+  "Blueberry___healthy": {
+    "scientific_name": "Vaccinium spp.",
+    "common_name": "Healthy Blueberry Plant",
+    "description": "No disease detected. The blueberry plant is in optimal health with no visible infections or damage.",
+    "symptoms": [
+      "Lush green leaves with no spots or discoloration",
+      "Strong, healthy stems and branches",
+      "Plump, firm berries with no mold or shriveling"
+    ],
+    "causes": [
+      "Proper watering and nutrient balance",
+      "Good air circulation preventing fungal growth",
+      "Absence of pest infestations"
+    ],
+    "risk_factor": [
+      "Overwatering or poor soil drainage",
+      "Exposure to extreme weather changes",
+      "Nearby diseased plants spreading infections"
+    ],
+    "prevention": [
+      "Regular pruning to improve air circulation",
+      "Applying organic mulch to retain soil moisture",
+      "Inspecting for early signs of disease or pests"
+    ],
+    "best_practices": [
+      "Watering appropriately based on climate conditions",
+      "Using disease-resistant blueberry varieties",
+      "Applying natural pest deterrents when needed"
+    ],
+    "climate_soil": {
+      "preferred_climate": "Temperate climate with moderate humidity",
+      "soil_requirements": "Acidic, well-drained soil with rich organic matter"
+    },
+    "resistant_varieties": [
+      "Bluecrop",
+      "Legacy",
+      "Jersey"
+    ],
+    "treatments": {
+      "chemical": "No treatment needed for a healthy plant",
+      "organic": "Maintain health with organic compost and fertilizers",
+      "biological": "Encourage pollinators like bees for better fruit production",
+      "diy": "Use neem oil occasionally to prevent pests and fungal infections",
+      "step_by_step": [
+        "Ensure proper watering without overwatering",
+        "Prune regularly for better airflow",
+        "Monitor plant health and apply organic treatments when necessary"
+      ]
+    },
+    "recovery": {
+      "monitoring": "Regularly check leaves, fruits, and branches for any signs of disease",
+      "nutrient_boost": "Apply balanced fertilizers like compost tea",
+      "soil_treatment": "Use pine mulch to maintain acidic soil conditions"
+    },
+    "expert_advice": {
+      "pro_tips": [
+        "Mulch around the base of the plant to retain moisture",
+        "Rotate between different organic fertilizers to improve soil health"
+      ],
+      "mistakes": [
+        "Overwatering, leading to root rot",
+        "Neglecting to prune, leading to poor airflow and increased disease risk"
+      ],
+      "faq": {
+        "How often should I water my blueberry plant?": "Once a week, deeply, unless there is consistent rainfall.",
+        "Do healthy blueberry plants need pesticides?": "Not necessarily; organic methods can keep pests under control."
+      }
+    },
+    "market": {
+      "best_products": [
+        "Espoma Holly-Tone Fertilizer",
+        "Jobe's Organic Berry Fertilizer",
+        "Dr. Earth Acid-Loving Plant Food"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local garden centers",
+        "Organic farming supply stores"
+      ]
+    }
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "scientific_name": "Podosphaera clandestina",
+    "common_name": "Powdery Mildew on Cherry",
+    "description": "Powdery mildew is a fungal infection that causes a white powdery substance on leaves, reducing photosynthesis and weakening the plant.",
+    "symptoms": [
+      "White or grayish powdery coating on leaves and stems",
+      "Distorted or curled leaves",
+      "Reduced fruit production and quality",
+      "Premature leaf drop"
+    ],
+    "causes": [
+      "Fungal spores spread in warm, dry conditions",
+      "Overcrowding leading to poor air circulation",
+      "High humidity levels favoring fungal growth"
+    ],
+    "risk_factor": [
+      "Dense plantings with poor airflow",
+      "Lack of sunlight exposure",
+      "Overuse of nitrogen-rich fertilizers"
+    ],
+    "prevention": [
+      "Space plants properly for good air circulation",
+      "Prune infected leaves and branches",
+      "Avoid overhead watering to reduce humidity"
+    ],
+    "best_practices": [
+      "Apply sulfur-based fungicides before infection starts",
+      "Use resistant cherry varieties",
+      "Rotate crops to prevent fungal buildup"
+    ],
+    "climate_soil": {
+      "preferred_climate": "Warm temperatures with moderate humidity",
+      "soil_requirements": "Well-drained loamy soil with balanced nutrients"
+    },
+    "resistant_varieties": [
+      "Montmorency",
+      "Black Tartarian",
+      "North Star"
+    ],
+    "treatments": {
+      "chemical": [
+        "Apply fungicides like Myclobutanil, Sulfur, or Potassium Bicarbonate"
+      ],
+      "organic": [
+        "Spray with neem oil or baking soda solution",
+        "Use milk spray (1:10 ratio with water) to control fungus"
+      ],
+      "biological": [
+        "Introduce beneficial microbes like Bacillus subtilis",
+        "Encourage natural predators like ladybugs"
+      ],
+      "diy": [
+        "Mix 1 tbsp baking soda with 1 gallon of water and spray weekly"
+      ],
+      "step_by_step": [
+        "Monitor for white patches on leaves",
+        "Prune and remove infected leaves",
+        "Apply fungicides before infection worsens",
+        "Ensure good air circulation around the plant"
+      ]
+    },
+    "recovery": {
+      "monitoring": "Check plants regularly for signs of mildew spread",
+      "nutrient_boost": "Use compost or organic fertilizers to strengthen plant resistance",
+      "soil_treatment": "Improve drainage and avoid excessive nitrogen fertilizers"
+    },
+    "expert_advice": {
+      "pro_tips": [
+        "Water plants at the base to reduce leaf moisture",
+        "Prune regularly to increase sunlight exposure"
+      ],
+      "mistakes": [
+        "Ignoring early signs of powdery mildew",
+        "Overhead watering, which increases humidity"
+      ],
+      "faq": {
+        "Can powdery mildew kill my cherry tree?": "It weakens the tree but rarely kills it if managed properly.",
+        "How do I prevent powdery mildew naturally?": "Use neem oil or a baking soda solution as a preventive spray."
+      }
+    },
+    "market": {
+      "best_products": [
+        "Bonide Sulfur Plant Fungicide",
+        "Safer Brand Garden Fungicide",
+        "Serenade Garden Disease Control"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local garden supply stores",
+        "Agricultural nurseries"
+      ]
+    }
+  },
+  "Cherry_(including_sour)___healthy": {
+    "scientific_name": "Prunus cerasus",
+    "common_name": "Healthy Cherry Plant",
+    "description": "No disease detected. The cherry plant is in excellent health with no visible infections or damage.",
+    "symptoms": [
+      "Glossy green leaves with no spots or curling",
+      "Strong branches and healthy growth",
+      "Good fruit production with firm, unblemished cherries"
+    ],
+    "causes": [
+      "Proper sunlight and watering",
+      "Well-balanced soil nutrients",
+      "Absence of pest infestations"
+    ],
+    "risk_factor": [
+      "Overwatering leading to root rot",
+      "Drought stress causing leaf wilting",
+      "Nearby diseased plants spreading infections"
+    ],
+    "prevention": [
+      "Regular pruning for better air circulation",
+      "Applying organic mulch to retain moisture",
+      "Checking for early signs of disease or pests"
+    ],
+    "best_practices": [
+      "Watering based on seasonal requirements",
+      "Using disease-resistant cherry varieties",
+      "Applying organic pest control if necessary"
+    ],
+    "climate_soil": {
+      "preferred_climate": "Temperate climate with moderate humidity",
+      "soil_requirements": "Well-drained loamy soil with good organic content"
+    },
+    "resistant_varieties": [
+      "Montmorency",
+      "Black Tartarian",
+      "Stella"
+    ],
+    "treatments": {
+      "chemical": "No treatment needed for a healthy plant",
+      "organic": "Maintain plant health with compost and natural fertilizers",
+      "biological": "Encourage pollinators like bees for better fruiting",
+      "diy": "Use neem oil as a preventive measure against pests",
+      "step_by_step": [
+        "Water adequately without overwatering",
+        "Prune regularly for better airflow",
+        "Monitor plant health and apply organic treatments if needed"
+      ]
+    },
+    "recovery": {
+      "monitoring": "Check leaves, branches, and fruits regularly",
+      "nutrient_boost": "Use compost tea for better nutrient absorption",
+      "soil_treatment": "Apply mulch to maintain moisture and prevent soil erosion"
+    },
+    "expert_advice": {
+      "pro_tips": [
+        "Mulch around the base to retain moisture",
+        "Rotate between different organic fertilizers for better soil health"
+      ],
+      "mistakes": [
+        "Overwatering, which can lead to fungal growth",
+        "Ignoring early signs of nutrient deficiency"
+      ],
+      "faq": {
+        "How often should I water my cherry plant?": "Once a week, deeply, unless there is consistent rainfall.",
+        "Do healthy cherry plants need pesticides?": "Not always; proper care and organic methods are enough."
+      }
+    },
+    "market": {
+      "best_products": [
+        "Espoma Fruit & Berry Fertilizer",
+        "Jobe's Organic Fruit Tree Fertilizer",
+        "Dr. Earth Natural Wonder Fertilizer"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local garden centers",
+        "Organic farming supply stores"
+      ]
+    }
+  },
+  "Corn_(maize)___Cercospora_leaf_spot_Gray_leaf_spot": {
+    "scientific_name": "Cercospora zeae-maydis",
+    "common_name": "Cercospora Leaf Spot / Gray Leaf Spot on Maize",
+    "description": "A fungal disease that causes elongated gray or tan lesions on maize leaves, reducing photosynthesis and crop yield.",
+    "symptoms": [
+      "Small, tan or gray rectangular lesions on leaves",
+      "Lesions gradually expand, causing leaf blight",
+      "Reduced plant vigor and stunted growth",
+      "Premature leaf drying and lower yield"
+    ],
+    "causes": [
+      "Fungal spores spread through wind and rain",
+      "Warm, humid conditions favor disease development",
+      "Overcrowding leading to poor air circulation"
+    ],
+    "risk_factor": [
+      "High humidity levels and prolonged leaf wetness",
+      "Continuous maize cropping in the same field",
+      "Late planting increasing disease susceptibility"
+    ],
+    "prevention": [
+      "Crop rotation with non-host plants like soybeans",
+      "Using resistant maize varieties",
+      "Avoiding overhead irrigation to reduce leaf wetness"
+    ],
+    "best_practices": [
+      "Applying fungicides during early infection stages",
+      "Ensuring proper spacing between plants for airflow",
+      "Using disease-free seeds for planting"
+    ],
+    "climate_soil": {
+      "preferred_climate": "Warm, humid climate with moderate rainfall",
+      "soil_requirements": "Well-drained loamy soil rich in organic matter"
+    },
+    "resistant_varieties": [
+      "Dekalb 66-75",
+      "Pioneer P1197",
+      "Syngenta NK0760"
+    ],
+    "treatments": {
+      "chemical": [
+        "Apply fungicides like Azoxystrobin, Pyraclostrobin, or Propiconazole"
+      ],
+      "organic": [
+        "Use compost tea to boost plant immunity",
+        "Apply neem oil spray to suppress fungal spores"
+      ],
+      "biological": [
+        "Introduce Trichoderma fungi as a natural biocontrol agent"
+      ],
+      "diy": [
+        "Mix 1 tbsp baking soda with 1 gallon of water and spray on leaves"
+      ],
+      "step_by_step": [
+        "Inspect maize leaves regularly for early signs",
+        "Apply fungicides or organic treatments as soon as symptoms appear",
+        "Ensure proper spacing between plants to reduce humidity",
+        "Rotate crops yearly to prevent disease buildup"
+      ]
+    },
+    "recovery": {
+      "monitoring": "Check for new lesions and remove infected leaves if possible",
+      "nutrient_boost": "Apply balanced fertilizers to strengthen plant resistance",
+      "soil_treatment": "Improve soil drainage and avoid over-fertilization"
+    },
+    "expert_advice": {
+      "pro_tips": [
+        "Plant resistant varieties to minimize risk",
+        "Use drip irrigation instead of overhead watering"
+      ],
+      "mistakes": [
+        "Ignoring crop rotation, leading to disease buildup",
+        "Overusing nitrogen fertilizers, which can worsen disease spread"
+      ],
+      "faq": {
+        "How does gray leaf spot affect maize yield?": "Severe infections can reduce yield by 30-50% by limiting photosynthesis.",
+        "Can gray leaf spot be controlled organically?": "Yes, using neem oil sprays, compost tea, and resistant maize varieties."
+      }
+    },
+    "market": {
+      "best_products": [
+        "Quadris Fungicide (Azoxystrobin)",
+        "Headline Fungicide (Pyraclostrobin)",
+        "Tilt Fungicide (Propiconazole)"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Agricultural supply stores",
+        "Local farming co-ops"
+      ]
+    }
+  },
+  "Corn_(maize)___Common_rust": {
+    "scientific_name": "Puccinia sorghi",
+    "common_name": "Common Rust on Maize",
+    "description": "A fungal disease causing rust-colored pustules on maize leaves, leading to reduced photosynthesis and poor growth.",
+    "symptoms": [
+      "Reddish-brown, powdery pustules on both sides of leaves",
+      "Severe infections causing premature leaf drying",
+      "Weakened plant vigor and stunted growth"
+    ],
+    "causes": [
+      "Airborne fungal spores spread by wind",
+      "High humidity and moderate temperatures (60-77°F or 15-25°C)",
+      "Overcrowding increasing moisture retention"
+    ],
+    "risk_factor": [
+      "Frequent rainfall and wet conditions",
+      "Susceptible maize varieties",
+      "Late-season infections reducing yield"
+    ],
+    "prevention": [
+      "Planting rust-resistant maize hybrids",
+      "Ensuring proper spacing between plants",
+      "Applying preventive fungicides during early stages"
+    ],
+    "best_practices": [
+      "Crop rotation to break disease cycle",
+      "Using disease-free seeds",
+      "Removing infected plant debris after harvest"
+    ],
+    "climate_soil": {
+      "preferred_climate": "Moderate temperatures with high humidity",
+      "soil_requirements": "Well-drained soil with balanced nutrients"
+    },
+    "resistant_varieties": [
+      "Pioneer P1257",
+      "Dekalb DKC63-90",
+      "Syngenta NK0821"
+    ],
+    "treatments": {
+      "chemical": [
+        "Fungicides like Azoxystrobin or Propiconazole"
+      ],
+      "organic": [
+        "Spray compost tea to boost plant immunity",
+        "Use neem oil to slow fungal spread"
+      ],
+      "biological": [
+        "Introduce beneficial fungi like Trichoderma"
+      ],
+      "diy": [
+        "Mix 1 tbsp baking soda with 1 gallon of water and spray weekly"
+      ],
+      "step_by_step": [
+        "Inspect leaves regularly for rust pustules",
+        "Apply fungicides or organic treatments at early stages",
+        "Ensure good air circulation by proper plant spacing",
+        "Rotate crops to prevent disease recurrence"
+      ]
+    },
+    "recovery": {
+      "monitoring": "Check for rust pustule spread and remove infected leaves",
+      "nutrient_boost": "Use potassium-rich fertilizers to enhance resistance",
+      "soil_treatment": "Improve drainage to reduce fungal spores in the soil"
+    },
+    "expert_advice": {
+      "pro_tips": [
+        "Use rust-resistant maize hybrids",
+        "Apply fungicides early before heavy infection occurs"
+      ],
+      "mistakes": [
+        "Ignoring early symptoms, leading to rapid spread",
+        "Overwatering, increasing humidity and fungal growth"
+      ],
+      "faq": {
+        "How fast does common rust spread?": "It spreads quickly under humid conditions but can be controlled with timely treatments.",
+        "Can I prevent rust without chemicals?": "Yes, by using resistant varieties, proper spacing, and organic treatments."
+      }
+    },
+    "market": {
+      "best_products": [
+        "Quadris Fungicide (Azoxystrobin)",
+        "Tilt Fungicide (Propiconazole)",
+        "Neem Oil Organic Fungicide"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local agricultural stores",
+        "Farming supply websites"
+      ]
+    }
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "scientific_name": "Exserohilum turcicum",
+    "common_name": "Northern Leaf Blight on Maize",
+    "description": "A fungal disease causing long, brown, cigar-shaped lesions on maize leaves, leading to significant yield loss.",
+    "symptoms": [
+      "Long, tan to brown, cigar-shaped lesions on leaves",
+      "Lesions expanding and merging, causing leaf blight",
+      "Premature leaf death, reducing photosynthesis",
+      "Weak plants with lower grain production"
+    ],
+    "causes": [
+      "Fungal spores spreading through wind and rain",
+      "Warm, humid conditions favoring disease growth",
+      "Poor field sanitation leading to spore buildup"
+    ],
+    "risk_factor": [
+      "Continuous maize cropping in the same field",
+      "Wet weather and dense planting",
+      "Lack of crop rotation"
+    ],
+    "prevention": [
+      "Planting resistant maize hybrids",
+      "Ensuring proper plant spacing for airflow",
+      "Applying fungicides at early disease stages"
+    ],
+    "best_practices": [
+      "Rotating maize with non-host crops",
+      "Using disease-free seeds",
+      "Removing infected plant debris to prevent spore spread"
+    ],
+    "climate_soil": {
+      "preferred_climate": "Warm, humid climate with seasonal rainfall",
+      "soil_requirements": "Loamy, well-drained soil with organic matter"
+    },
+    "resistant_varieties": [
+      "Pioneer P1602",
+      "Dekalb DKC61-88",
+      "Syngenta NK0760"
+    ],
+    "treatments": {
+      "chemical": [
+        "Fungicides like Propiconazole or Mancozeb"
+      ],
+      "organic": [
+        "Spray copper-based fungicides for control",
+        "Apply compost tea for plant immunity"
+      ],
+      "biological": [
+        "Introduce Trichoderma fungi as a biocontrol agent"
+      ],
+      "diy": [
+        "Use a garlic extract spray to inhibit fungal growth"
+      ],
+      "step_by_step": [
+        "Monitor leaves for early brown lesions",
+        "Apply fungicides or organic treatments promptly",
+        "Ensure good airflow between plants",
+        "Rotate crops and avoid planting maize repeatedly in the same field"
+      ]
+    },
+    "recovery": {
+      "monitoring": "Regularly check for new lesions and remove infected leaves",
+      "nutrient_boost": "Apply balanced fertilizers to enhance resistance",
+      "soil_treatment": "Improve soil health with compost and organic matter"
+    },
+    "expert_advice": {
+      "pro_tips": [
+        "Use resistant varieties to minimize infections",
+        "Apply fungicides before lesions expand"
+      ],
+      "mistakes": [
+        "Ignoring early symptoms leading to complete leaf blight",
+        "Planting maize too densely, increasing humidity"
+      ],
+      "faq": {
+        "How much yield loss does Northern Leaf Blight cause?": "Severe infections can reduce yield by 40-50% if untreated.",
+        "Can Northern Leaf Blight be controlled naturally?": "Yes, by using crop rotation, resistant varieties, and organic sprays."
+      }
+    },
+    "market": {
+      "best_products": [
+        "Tilt Fungicide (Propiconazole)",
+        "Dithane Fungicide (Mancozeb)",
+        "Copper Sulfate Organic Fungicide"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Agricultural supply stores",
+        "Online farming websites"
+      ]
+    }
+  },
+  "Corn_(maize)___healthy": {
+    "scientific_name": "Zea mays",
+    "common_name": "Healthy Maize Plant",
+    "description": "No disease detected. The maize plant is healthy and thriving.",
+    "symptoms": [
+      "Green, vibrant leaves with no lesions",
+      "Strong stalks and well-developed roots",
+      "No signs of rust, blight, or fungal infections"
+    ],
+    "care_tips": [
+      "Regular watering without over-saturating the soil",
+      "Ensuring proper plant spacing for good air circulation",
+      "Applying balanced fertilizers for healthy growth"
+    ],
+    "best_practices": [
+      "Rotate crops to maintain soil health",
+      "Use organic mulch to retain moisture",
+      "Monitor plants for early signs of disease"
+    ],
+    "climate_soil": {
+      "preferred_climate": "Warm temperatures with moderate rainfall",
+      "soil_requirements": "Well-drained, nutrient-rich loamy soil"
+    },
+    "fertilization": [
+      "Use nitrogen-rich fertilizers for strong growth",
+      "Apply phosphorus for root development",
+      "Use potassium to boost resistance against stress"
+    ],
+    "market": {
+      "best_products": [
+        "Organic compost for soil enrichment",
+        "Slow-release nitrogen fertilizers",
+        "Drip irrigation kits for controlled watering"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local gardening stores",
+        "Agricultural supply shops"
+      ]
+    }
+  },
+  "Grape___Black_rot": {
+    "scientific_name": "Guignardia bidwellii",
+    "common_name": "Black Rot on Grapes",
+    "description": "Black rot is a fungal disease in grapes that causes brown lesions on leaves and shriveled black fruit.",
+    "symptoms": [
+      "Small, circular brown spots with dark edges on leaves",
+      "Black, shriveled berries with a hard, mummified texture",
+      "Dark cankers on stems and tendrils"
+    ],
+    "causes": [
+      "Fungal spores spread through wind and rain",
+      "High humidity and warm temperatures favor fungal growth",
+      "Infected plant debris serving as a source of reinfection"
+    ],
+    "risk_factor": [
+      "Densely planted vines with poor airflow",
+      "Extended wet conditions during the growing season",
+      "Lack of proper pruning and sanitation"
+    ],
+    "prevention": [
+      "Prune vines regularly to improve airflow",
+      "Apply fungicides at early growth stages",
+      "Remove and destroy infected plant debris"
+    ],
+    "best_practices": [
+      "Plant resistant grape varieties",
+      "Use trellising systems to keep vines off the ground",
+      "Apply organic fungicides before the rainy season"
+    ],
+    "climate_soil": {
+      "preferred_climate": "Warm, humid conditions with seasonal rainfall",
+      "soil_requirements": "Well-drained soil with good organic content"
+    },
+    "resistant_varieties": [
+      "Concord",
+      "Niagara",
+      "Vidal Blanc"
+    ],
+    "treatments": {
+      "chemical": [
+        "Fungicides like Mancozeb or Myclobutanil"
+      ],
+      "organic": [
+        "Neem oil spray to inhibit fungal growth",
+        "Baking soda and water solution as a natural fungicide"
+      ],
+      "biological": [
+        "Use Trichoderma fungi to suppress black rot spores"
+      ],
+      "diy": [
+        "Mix 1 tablespoon apple cider vinegar with 1 liter of water and spray weekly"
+      ],
+      "step_by_step": [
+        "Monitor vines for early signs of black rot",
+        "Apply fungicides or organic treatments at bud break",
+        "Ensure proper vine spacing and trellising",
+        "Remove infected fruit and leaves promptly"
+      ]
+    },
+    "recovery": {
+      "monitoring": "Check leaves and fruit clusters for new infections",
+      "nutrient_boost": "Use potassium-based fertilizers for disease resistance",
+      "soil_treatment": "Improve drainage to reduce fungal spread"
+    },
+    "expert_advice": {
+      "pro_tips": [
+        "Apply fungicides before rainfall to prevent infections",
+        "Prune lower leaves for better air circulation"
+      ],
+      "mistakes": [
+        "Ignoring early symptoms, allowing black rot to spread",
+        "Overwatering, increasing humidity and fungal growth"
+      ],
+      "faq": {
+        "Can black rot be cured?": "No, but it can be managed with timely treatments.",
+        "How long does black rot last?": "Spores can survive for years in infected debris, so proper sanitation is key."
+      }
+    },
+    "market": {
+      "best_products": [
+        "Bonide Mancozeb Fungicide",
+        "Serenade Organic Fungicide",
+        "Copper-based fungicides for organic control"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local agricultural supply stores",
+        "Online gardening websites"
+      ]
+    }
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "scientific_name": "Phaeomoniella chlamydospora, Phaeoacremonium spp.",
+    "common_name": "Esca (Black Measles) in Grapes",
+    "description": "Esca, also known as Black Measles, is a fungal disease that causes dark streaks on leaves, stunted growth, and vine decline.",
+    "symptoms": [
+      "Dark streaks and tiger-stripe patterns on leaves",
+      "Shriveled, sunburned berries with a cracked surface",
+      "Wood decay inside vine trunks leading to dieback"
+    ],
+    "causes": [
+      "Infection by Phaeomoniella and Phaeoacremonium fungi",
+      "Fungal spores entering through pruning wounds",
+      "Warm and humid conditions promoting fungal growth"
+    ],
+    "risk_factor": [
+      "Old grapevines with weakened immunity",
+      "Poor pruning practices increasing infection risk",
+      "High moisture and poor air circulation"
+    ],
+    "prevention": [
+      "Disinfect pruning tools to prevent fungal spread",
+      "Avoid pruning in wet conditions to reduce infection risk",
+      "Apply fungicides during early vine growth stages"
+    ],
+    "best_practices": [
+      "Use resistant grapevine rootstocks",
+      "Ensure good vineyard drainage and airflow",
+      "Remove and destroy infected wood to prevent further spread"
+    ],
+    "treatments": {
+      "chemical": [
+        "Fungicides like Thiophanate-methyl and Carbendazim"
+      ],
+      "organic": [
+        "Neem oil spray to reduce fungal activity",
+        "Copper-based fungicides for organic control"
+      ],
+      "biological": [
+        "Use Trichoderma-based biofungicides to suppress fungi"
+      ],
+      "diy": [
+        "Mix 1 tablespoon baking soda with 1 liter of water and spray weekly"
+      ],
+      "step_by_step": [
+        "Monitor vines for early symptoms of leaf streaks",
+        "Prune infected branches and apply fungicide",
+        "Remove and burn diseased wood to prevent reinfection",
+        "Ensure proper vineyard management with adequate spacing"
+      ]
+    },
+    "recovery": {
+      "monitoring": "Check for fresh infections on leaves and vines",
+      "nutrient_boost": "Apply potassium-rich fertilizers for disease resistance",
+      "soil_treatment": "Improve vineyard drainage to reduce fungal spread"
+    },
+    "expert_advice": {
+      "pro_tips": [
+        "Avoid excessive nitrogen fertilization, which can weaken vines",
+        "Regularly monitor vines for early signs of Esca"
+      ],
+      "mistakes": [
+        "Not disinfecting pruning tools, leading to reinfection",
+        "Delaying treatment, allowing fungi to spread internally"
+      ]
+    },
+    "market": {
+      "best_products": [
+        "Copper-based fungicides",
+        "Organic neem oil spray",
+        "Thiophanate-methyl fungicide"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local agricultural stores",
+        "Online gardening retailers"
+      ]
+    }
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "scientific_name": "Isariopsis clavispora",
+    "common_name": "Leaf Blight (Isariopsis Leaf Spot) in Grapes",
+    "description": "A fungal disease causing brown spots, premature leaf drop, and reduced grape yield.",
+    "symptoms": [
+      "Small, irregular brown spots on grape leaves",
+      "Leaves turning yellow and falling off prematurely",
+      "Poor fruit development due to weakened vines"
+    ],
+    "causes": [
+      "Fungal spores spread through wind and rain",
+      "High humidity and excessive leaf moisture",
+      "Infected plant debris serving as a fungal reservoir"
+    ],
+    "risk_factor": [
+      "Dense foliage creating poor airflow",
+      "Overhead watering increasing leaf wetness",
+      "Failure to remove infected leaves and debris"
+    ],
+    "prevention": [
+      "Prune vines regularly to improve airflow",
+      "Apply fungicides before the rainy season",
+      "Avoid overhead watering; use drip irrigation instead"
+    ],
+    "best_practices": [
+      "Plant resistant grape varieties",
+      "Ensure proper spacing between vines",
+      "Monitor vineyards for early symptoms"
+    ],
+    "treatments": {
+      "chemical": [
+        "Fungicides like Chlorothalonil and Mancozeb"
+      ],
+      "organic": [
+        "Neem oil spray to control fungal spread",
+        "Baking soda spray as a natural antifungal"
+      ],
+      "biological": [
+        "Use Bacillus subtilis-based biofungicides"
+      ],
+      "diy": [
+        "Mix 1 tablespoon hydrogen peroxide with 1 liter of water and spray weekly"
+      ],
+      "step_by_step": [
+        "Monitor leaves for early symptoms of blight",
+        "Prune infected leaves and dispose of them properly",
+        "Apply fungicide or organic treatment to prevent spread",
+        "Improve vineyard management to reduce humidity"
+      ]
+    },
+    "recovery": {
+      "monitoring": "Check grapevines weekly for new infections",
+      "nutrient_boost": "Use phosphorus-based fertilizers for plant strength",
+      "soil_treatment": "Improve drainage to reduce fungal activity"
+    },
+    "expert_advice": {
+      "pro_tips": [
+        "Avoid excessive nitrogen fertilization, which increases disease risk",
+        "Spray fungicides in dry weather for better absorption"
+      ],
+      "mistakes": [
+        "Overcrowding vines, leading to high humidity",
+        "Ignoring early symptoms, allowing widespread infection"
+      ]
+    },
+    "market": {
+      "best_products": [
+        "Bonide Mancozeb Fungicide",
+        "Serenade Organic Fungicide",
+        "Copper-based fungicides for organic control"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local agricultural supply stores",
+        "Online gardening websites"
+      ]
+    }
+  },
+  "Grape___healthy": {
+    "scientific_name": "Vitis vinifera",
+    "common_name": "Healthy Grapevine",
+    "description": "No disease detected. The grapevine is healthy and thriving.",
+    "symptoms": [
+      "Green, vibrant leaves with no lesions",
+      "Strong vine growth with no signs of decay",
+      "Well-developed fruit clusters with no discoloration"
+    ],
+    "care_tips": [
+      "Regular watering without waterlogging the roots",
+      "Prune vines to encourage airflow and reduce disease risk",
+      "Use organic mulch to retain soil moisture and nutrients"
+    ],
+    "best_practices": [
+      "Rotate crops to maintain soil health",
+      "Use trellising to support proper vine growth",
+      "Monitor plants for early signs of disease"
+    ],
+    "climate_soil": {
+      "preferred_climate": "Warm, dry climate with moderate rainfall",
+      "soil_requirements": "Well-drained loamy soil with good organic content"
+    },
+    "fertilization": [
+      "Use potassium-based fertilizers for disease resistance",
+      "Apply phosphorus for root and vine development",
+      "Use organic compost for nutrient balance"
+    ],
+    "market": {
+      "best_products": [
+        "Organic compost for soil enrichment",
+        "Slow-release fertilizers for balanced growth",
+        "Drip irrigation kits for controlled watering"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local gardening stores",
+        "Agricultural supply shops"
+      ]
+    }
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "scientific_name": "Candidatus Liberibacter spp.",
+    "common_name": "Citrus Greening (Haunglongbing)",
+    "description": "A bacterial disease that causes yellowing of leaves, misshapen fruit, and eventual tree decline.",
+    "symptoms": [
+      "Yellowing of leaves in a blotchy pattern",
+      "Misshapen, bitter, and green-stayed fruit",
+      "Twig dieback and overall decline in tree health"
+    ],
+    "causes": [
+      "Spread by infected Asian citrus psyllids",
+      "Bacterial infection affecting nutrient transport",
+      "Contaminated grafting tools or infected nursery plants"
+    ],
+    "risk_factor": [
+      "Presence of Asian citrus psyllids in the region",
+      "Warm and humid climates favoring psyllid breeding",
+      "Using infected plant material for propagation"
+    ],
+    "prevention": [
+      "Use insecticides to control psyllid populations",
+      "Plant disease-resistant citrus varieties",
+      "Remove and destroy infected trees to prevent spread"
+    ],
+    "best_practices": [
+      "Regular monitoring for psyllid presence",
+      "Use reflective mulch to deter insect vectors",
+      "Apply systemic bactericides under professional guidance"
+    ],
+    "treatments": {
+      "chemical": [
+        "Imidacloprid-based insecticides for psyllid control",
+        "Oxytetracycline injections for bacterial suppression"
+      ],
+      "organic": [
+        "Neem oil spray to reduce psyllid infestation",
+        "Kaolin clay as a physical barrier against psyllids"
+      ],
+      "biological": [
+        "Release of parasitic wasps to control psyllid populations"
+      ],
+      "diy": [
+        "Spray a mixture of neem oil and soap water weekly"
+      ],
+      "step_by_step": [
+        "Inspect trees for yellowing leaves and psyllids",
+        "Apply insecticides or organic treatments for psyllid control",
+        "Remove infected trees if symptoms are severe",
+        "Monitor nearby trees to prevent further infection"
+      ]
+    },
+    "recovery": {
+      "monitoring": "Check for new psyllid infestations regularly",
+      "nutrient_boost": "Apply balanced citrus fertilizers",
+      "soil_treatment": "Use organic compost to improve root health"
+    },
+    "expert_advice": {
+      "pro_tips": [
+        "Keep citrus orchards free of weeds to reduce psyllid habitat",
+        "Avoid transporting citrus plants from infected regions"
+      ],
+      "mistakes": [
+        "Ignoring early signs, allowing bacteria to spread",
+        "Not controlling psyllids, leading to rapid reinfection"
+      ]
+    },
+    "market": {
+      "best_products": [
+        "Neem oil for organic pest control",
+        "Reflective mulch to deter psyllids",
+        "Systemic insecticides for long-term protection"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local agricultural stores",
+        "Online gardening retailers"
+      ]
+    }
+  },
+  "Peach___Bacterial_spot": {
+    "scientific_name": "Xanthomonas arboricola pv. pruni",
+    "common_name": "Bacterial Spot in Peaches",
+    "description": "A bacterial infection that causes dark spots on peach leaves and fruit, reducing yield and quality.",
+    "symptoms": [
+      "Small, dark, water-soaked spots on leaves",
+      "Fruit lesions that turn into rough, sunken pits",
+      "Leaf yellowing and premature defoliation"
+    ],
+    "causes": [
+      "Infection by Xanthomonas bacteria",
+      "Spread through rain splash and contaminated tools",
+      "High humidity and warm temperatures favor bacterial growth"
+    ],
+    "risk_factor": [
+      "Frequent rainfall or overhead irrigation",
+      "Planting susceptible peach varieties",
+      "Poor air circulation in orchards"
+    ],
+    "prevention": [
+      "Plant disease-resistant peach varieties",
+      "Prune trees to improve airflow and reduce moisture retention",
+      "Apply copper-based sprays during dormant season"
+    ],
+    "best_practices": [
+      "Regular orchard sanitation to remove infected debris",
+      "Use drip irrigation instead of overhead watering",
+      "Apply bactericides preventively during wet seasons"
+    ],
+    "treatments": {
+      "chemical": [
+        "Copper-based bactericides to suppress bacterial spread",
+        "Streptomycin sprays in severe outbreaks"
+      ],
+      "organic": [
+        "Neem oil spray to reduce bacterial load",
+        "Baking soda and water spray as a natural antibacterial"
+      ],
+      "biological": [
+        "Use beneficial bacteria sprays to compete with pathogens"
+      ],
+      "diy": [
+        "Mix 1 tablespoon of apple cider vinegar with 1 liter of water and spray weekly"
+      ],
+      "step_by_step": [
+        "Inspect peach trees for early signs of bacterial spots",
+        "Remove and dispose of infected leaves and fruit",
+        "Apply copper-based or organic sprays as needed",
+        "Ensure proper tree spacing for good airflow"
+      ]
+    },
+    "recovery": {
+      "monitoring": "Check leaves and fruit weekly for new infections",
+      "nutrient_boost": "Use balanced fertilizers to strengthen tree immunity",
+      "soil_treatment": "Improve drainage to prevent water stagnation"
+    },
+    "expert_advice": {
+      "pro_tips": [
+        "Prune trees during dry weather to prevent bacterial spread",
+        "Avoid excessive nitrogen fertilization, which makes trees more susceptible"
+      ],
+      "mistakes": [
+        "Not removing infected plant debris, leading to reinfection",
+        "Using overhead watering, increasing bacterial spread"
+      ]
+    },
+    "market": {
+      "best_products": [
+        "Copper-based fungicides and bactericides",
+        "Organic neem oil spray",
+        "Mulch to reduce soil splash and infection"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local garden supply stores",
+        "Online agricultural retailers"
+      ]
+    }
+  },
+  "Peach___healthy": {
+    "scientific_name": "Prunus persica",
+    "common_name": "Healthy Peach Tree",
+    "description": "No disease detected. The peach tree is thriving and in good health.",
+    "symptoms": [
+      "Green, healthy leaves with no spots or lesions",
+      "Strong branches with no dieback",
+      "High-quality fruit with no blemishes"
+    ],
+    "care_tips": [
+      "Water regularly but avoid waterlogging",
+      "Prune branches annually to maintain good structure",
+      "Use organic compost to enrich the soil"
+    ],
+    "best_practices": [
+      "Monitor for early signs of pests and diseases",
+      "Apply mulch around the base to retain soil moisture",
+      "Provide full sunlight exposure for optimal growth"
+    ],
+    "climate_soil": {
+      "preferred_climate": "Warm, temperate climate with full sun",
+      "soil_requirements": "Well-drained sandy loam soil with good organic matter"
+    },
+    "fertilization": [
+      "Use potassium-rich fertilizers for fruit quality",
+      "Apply compost for slow-release nutrients",
+      "Mulch with organic matter to retain moisture"
+    ],
+    "market": {
+      "best_products": [
+        "Organic compost for soil enrichment",
+        "Slow-release fertilizers for balanced growth",
+        "Drip irrigation kits for efficient watering"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local gardening stores",
+        "Agricultural supply shops"
+      ]
+    }
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "scientific_name": "Xanthomonas campestris pv. vesicatoria",
+    "common_name": "Bacterial Spot in Bell Peppers",
+    "description": "A bacterial disease causing dark, water-soaked spots on leaves and fruit, leading to yield loss.",
+    "symptoms": [
+      "Small, dark, water-soaked spots on leaves",
+      "Lesions on fruit that become sunken and rough",
+      "Leaf yellowing and premature defoliation"
+    ],
+    "causes": [
+      "Infection by Xanthomonas bacteria",
+      "Spread through contaminated seeds, soil, and water splashes",
+      "Warm, humid conditions promote bacterial growth"
+    ],
+    "risk_factor": [
+      "High humidity and frequent rainfall",
+      "Use of infected seeds or seedlings",
+      "Overhead irrigation increasing moisture on leaves"
+    ],
+    "prevention": [
+      "Use disease-free seeds and resistant varieties",
+      "Avoid overhead watering; use drip irrigation instead",
+      "Rotate crops to prevent bacterial buildup in the soil"
+    ],
+    "best_practices": [
+      "Prune lower leaves to improve airflow",
+      "Apply copper-based bactericides during early infection",
+      "Remove and destroy infected plant debris"
+    ],
+    "treatments": {
+      "chemical": [
+        "Copper-based sprays to suppress bacterial growth",
+        "Streptomycin-based bactericides in severe cases"
+      ],
+      "organic": [
+        "Neem oil spray to reduce bacterial spread",
+        "Baking soda solution for mild cases"
+      ],
+      "biological": [
+        "Use beneficial bacteria sprays to outcompete pathogens"
+      ],
+      "diy": [
+        "Mix 1 tablespoon of apple cider vinegar with 1 liter of water and spray weekly"
+      ],
+      "step_by_step": [
+        "Inspect plants for early symptoms",
+        "Remove infected leaves to prevent spread",
+        "Apply copper-based or organic sprays as needed",
+        "Ensure proper spacing for good airflow"
+      ]
+    },
+    "recovery": {
+      "monitoring": "Check leaves regularly for new infections",
+      "nutrient_boost": "Use potassium-rich fertilizers to strengthen plants",
+      "soil_treatment": "Improve drainage to prevent water stagnation"
+    },
+    "expert_advice": {
+      "pro_tips": [
+        "Avoid working with plants when wet to reduce spread",
+        "Sanitize tools regularly to prevent cross-contamination"
+      ],
+      "mistakes": [
+        "Using infected seeds, leading to early contamination",
+        "Not removing infected leaves, allowing bacteria to spread"
+      ]
+    },
+    "market": {
+      "best_products": [
+        "Copper fungicides for bacterial control",
+        "Neem oil for organic pest management",
+        "Drip irrigation kits to prevent leaf moisture"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local gardening centers",
+        "Online agricultural retailers"
+      ]
+    }
+  },
+  "Pepper,_bell___healthy": {
+    "scientific_name": "Capsicum annuum",
+    "common_name": "Healthy Bell Pepper Plant",
+    "description": "No disease detected. The bell pepper plant is thriving and in good health.",
+    "symptoms": [
+      "Green, healthy leaves with no spots",
+      "Strong stems and vibrant fruit production",
+      "No wilting or leaf discoloration"
+    ],
+    "care_tips": [
+      "Provide full sunlight (6-8 hours daily)",
+      "Water consistently but avoid waterlogging",
+      "Use balanced fertilizers for healthy growth"
+    ],
+    "best_practices": [
+      "Monitor for early signs of pests and diseases",
+      "Mulch around the base to retain moisture",
+      "Prune excess leaves for better air circulation"
+    ],
+    "climate_soil": {
+      "preferred_climate": "Warm, sunny environment",
+      "soil_requirements": "Well-drained, nutrient-rich soil"
+    },
+    "fertilization": [
+      "Use phosphorus-rich fertilizers for fruit production",
+      "Apply compost to enhance soil fertility",
+      "Mulch with organic matter to retain moisture"
+    ],
+    "market": {
+      "best_products": [
+        "Organic compost for soil enrichment",
+        "Balanced vegetable fertilizers",
+        "Drip irrigation systems for efficient watering"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local gardening stores",
+        "Online agricultural suppliers"
+      ]
+    }
+  },
+  "Potato___Early_blight": {
+    "scientific_name": "Alternaria solani",
+    "common_name": "Early Blight in Potatoes",
+    "description": "A fungal disease causing dark, concentric rings on potato leaves and tubers, reducing yield and quality.",
+    "symptoms": [
+      "Brown, concentric ring spots on older leaves",
+      "Yellowing and wilting of lower leaves",
+      "Dark, sunken lesions on potato tubers"
+    ],
+    "causes": [
+      "Fungal infection by Alternaria solani",
+      "Spread through infected soil and crop debris",
+      "High humidity and warm temperatures favor fungal growth"
+    ],
+    "risk_factor": [
+      "Overhead irrigation increasing leaf wetness",
+      "Poor air circulation among potato plants",
+      "Continuous planting of potatoes in the same field"
+    ],
+    "prevention": [
+      "Rotate crops regularly to break fungal cycle",
+      "Space plants properly for good airflow",
+      "Apply fungicides preventively in high-risk conditions"
+    ],
+    "best_practices": [
+      "Remove and destroy infected plant debris",
+      "Use resistant potato varieties",
+      "Apply organic compost to boost plant immunity"
+    ],
+    "treatments": {
+      "chemical": [
+        "Chlorothalonil-based fungicides to control early blight",
+        "Mancozeb sprays for fungal suppression"
+      ],
+      "organic": [
+        "Neem oil and baking soda spray for mild infections",
+        "Compost tea to enhance plant defenses"
+      ],
+      "biological": [
+        "Use Trichoderma-based biocontrol agents"
+      ],
+      "diy": [
+        "Mix 1 tablespoon baking soda with 1 liter of water and spray on leaves"
+      ],
+      "step_by_step": [
+        "Inspect plants for early signs of blight",
+        "Remove and dispose of infected leaves",
+        "Apply fungicides or organic treatments as needed",
+        "Water at soil level to avoid leaf wetness"
+      ]
+    },
+    "recovery": {
+      "monitoring": "Check weekly for new infections",
+      "nutrient_boost": "Use nitrogen-rich fertilizers for leaf growth",
+      "soil_treatment": "Improve drainage and reduce soil moisture retention"
+    },
+    "expert_advice": {
+      "pro_tips": [
+        "Avoid planting potatoes in the same field for consecutive years",
+        "Ensure proper plant spacing for good air circulation"
+      ],
+      "mistakes": [
+        "Not removing infected leaves, allowing fungus to spread",
+        "Using overhead watering, increasing leaf wetness"
+      ]
+    },
+    "market": {
+      "best_products": [
+        "Chlorothalonil fungicide for early blight control",
+        "Organic neem oil spray",
+        "Compost tea for boosting plant immunity"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local agricultural stores",
+        "Online gardening retailers"
+      ]
+    }
+  },
+  "Potato___Late_blight": {
+    "scientific_name": "Phytophthora infestans",
+    "common_name": "Late Blight in Potatoes",
+    "description": "A severe fungal disease causing water-soaked lesions, rapid plant decay, and devastating crop losses.",
+    "symptoms": [
+      "Dark, water-soaked lesions on leaves and stems",
+      "White fungal growth on the underside of leaves",
+      "Rapid wilting and decay of foliage",
+      "Dark, sunken lesions on tubers leading to rot"
+    ],
+    "causes": [
+      "Infection by Phytophthora infestans fungus",
+      "Spread through airborne spores in humid conditions",
+      "Contaminated tubers, soil, and plant debris"
+    ],
+    "risk_factor": [
+      "Cool, wet weather with high humidity",
+      "Overcrowded plants with poor air circulation",
+      "Continuous potato cultivation without crop rotation"
+    ],
+    "prevention": [
+      "Use disease-resistant potato varieties",
+      "Ensure proper plant spacing for airflow",
+      "Avoid overhead irrigation; use drip irrigation instead",
+      "Rotate crops and remove infected plant debris"
+    ],
+    "best_practices": [
+      "Apply fungicides preventively in high-risk areas",
+      "Monitor plants regularly for early symptoms",
+      "Destroy infected plants immediately to prevent spread"
+    ],
+    "treatments": {
+      "chemical": [
+        "Copper-based fungicides to slow disease spread",
+        "Mancozeb and Chlorothalonil sprays for blight control"
+      ],
+      "organic": [
+        "Neem oil spray to reduce fungal infection",
+        "Baking soda solution for mild cases"
+      ],
+      "biological": [
+        "Trichoderma-based biocontrol agents"
+      ],
+      "diy": [
+        "Mix 1 tablespoon of baking soda with 1 liter of water and spray on leaves"
+      ],
+      "step_by_step": [
+        "Inspect plants for early signs of blight",
+        "Remove and destroy infected foliage",
+        "Apply fungicides or organic treatments as needed",
+        "Avoid handling plants when wet to reduce spread"
+      ]
+    },
+    "recovery": {
+      "monitoring": "Check weekly for new infections",
+      "nutrient_boost": "Use phosphorus-rich fertilizers for tuber development",
+      "soil_treatment": "Improve drainage and reduce moisture retention"
+    },
+    "expert_advice": {
+      "pro_tips": [
+        "Plant potatoes in well-drained soil with good airflow",
+        "Avoid storing infected tubers with healthy ones"
+      ],
+      "mistakes": [
+        "Ignoring early symptoms, allowing rapid spread",
+        "Not rotating crops, leading to recurring infections"
+      ]
+    },
+    "market": {
+      "best_products": [
+        "Mancozeb-based fungicide for blight control",
+        "Neem oil for organic disease management",
+        "Drip irrigation system to reduce leaf moisture"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local agricultural stores",
+        "Online gardening retailers"
+      ]
+    }
+  },
+  "Potato___healthy": {
+    "scientific_name": "Solanum tuberosum",
+    "common_name": "Healthy Potato Plant",
+    "description": "No disease detected. The potato plant is thriving and in good health.",
+    "symptoms": [
+      "Green, vibrant leaves with no spots",
+      "Strong stems and good tuber formation",
+      "No signs of wilting, lesions, or rot"
+    ],
+    "care_tips": [
+      "Provide full sunlight (6-8 hours daily)",
+      "Water consistently but avoid waterlogging",
+      "Use phosphorus-rich fertilizers for strong tuber growth"
+    ],
+    "best_practices": [
+      "Monitor for early signs of pests and diseases",
+      "Mulch around plants to retain soil moisture",
+      "Ensure proper spacing for airflow"
+    ],
+    "climate_soil": {
+      "preferred_climate": "Cool, temperate climate with well-drained soil",
+      "soil_requirements": "Loose, nutrient-rich soil with good aeration"
+    },
+    "fertilization": [
+      "Use compost or organic manure for better tuber yield",
+      "Apply potassium-rich fertilizers during tuber formation",
+      "Avoid excessive nitrogen to prevent leafy growth over tubers"
+    ],
+    "market": {
+      "best_products": [
+        "Organic compost for soil enrichment",
+        "Balanced vegetable fertilizers",
+        "Mulching sheets for moisture retention"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local gardening stores",
+        "Online agricultural suppliers"
+      ]
+    }
+  },
+  "Raspberry___healthy": {
+    "scientific_name": "Rubus idaeus",
+    "common_name": "Healthy Raspberry Plant",
+    "description": "No disease detected. The raspberry plant is thriving and in excellent health.",
+    "symptoms": [
+      "Green, healthy leaves with no signs of disease",
+      "Strong canes and abundant fruit production",
+      "No signs of wilting, discoloration, or fungal growth"
+    ],
+    "care_tips": [
+      "Provide full sunlight (6-8 hours daily)",
+      "Water regularly but avoid overwatering",
+      "Use organic compost to enrich soil fertility"
+    ],
+    "best_practices": [
+      "Prune old canes for better air circulation",
+      "Monitor for early signs of pests and diseases",
+      "Support canes with trellises for healthy growth"
+    ],
+    "climate_soil": {
+      "preferred_climate": "Cool to moderate climate with well-drained soil",
+      "soil_requirements": "Loamy, nutrient-rich soil with good aeration"
+    },
+    "fertilization": [
+      "Use balanced NPK fertilizers for healthy growth",
+      "Apply compost or organic matter to boost nutrients",
+      "Mulch around plants to retain soil moisture"
+    ],
+    "market": {
+      "best_products": [
+        "Organic compost for soil enrichment",
+        "Mulching sheets for moisture retention",
+        "Berry fertilizers for higher fruit yield"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local gardening stores",
+        "Online agricultural suppliers"
+      ]
+    }
+  },
+  "Soybean___healthy": {
+    "scientific_name": "Glycine max",
+    "common_name": "Healthy Soybean Plant",
+    "description": "No disease detected. The soybean plant is thriving and in excellent health.",
+    "symptoms": [
+      "Vibrant green leaves with no spots or discoloration",
+      "Strong stem growth and healthy pods",
+      "No signs of wilting, fungal growth, or pest damage"
+    ],
+    "care_tips": [
+      "Ensure well-drained soil with good aeration",
+      "Water moderately, avoiding waterlogging",
+      "Use nitrogen-fixing bacteria to improve soil fertility"
+    ],
+    "best_practices": [
+      "Rotate crops to prevent soil depletion",
+      "Monitor for early signs of pests and diseases",
+      "Maintain proper spacing for better airflow"
+    ],
+    "climate_soil": {
+      "preferred_climate": "Warm, temperate climate with moderate rainfall",
+      "soil_requirements": "Loamy, well-drained soil rich in organic matter"
+    },
+    "fertilization": [
+      "Apply phosphorus and potassium-based fertilizers",
+      "Use organic compost to improve nutrient content",
+      "Avoid excessive nitrogen to maintain balanced growth"
+    ],
+    "market": {
+      "best_products": [
+        "Organic soybean fertilizers",
+        "Mulching sheets for moisture retention",
+        "Pest control sprays for soybean crops"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local agricultural stores",
+        "Online gardening retailers"
+      ]
+    }
+  },
+  "Squash___Powdery_mildew": {
+    "scientific_name": "Podosphaera xanthii",
+    "common_name": "Powdery Mildew in Squash",
+    "description": "A fungal disease causing white powdery growth on squash leaves, reducing photosynthesis and stunting plant growth.",
+    "symptoms": [
+      "White, powdery patches on leaves and stems",
+      "Yellowing and curling of leaves",
+      "Reduced fruit production due to weakened plants"
+    ],
+    "causes": [
+      "Infection by airborne fungal spores",
+      "High humidity and poor air circulation",
+      "Overcrowded planting with limited sunlight exposure"
+    ],
+    "risk_factor": [
+      "Warm, dry conditions with high humidity",
+      "Poorly spaced plants with insufficient ventilation",
+      "Excessive nitrogen fertilization leading to weak tissue"
+    ],
+    "prevention": [
+      "Ensure proper plant spacing for airflow",
+      "Avoid overhead watering to keep leaves dry",
+      "Use disease-resistant squash varieties"
+    ],
+    "best_practices": [
+      "Apply fungicides preventively in high-risk areas",
+      "Prune infected leaves to slow disease spread",
+      "Encourage beneficial microbes in soil to suppress fungi"
+    ],
+    "treatments": {
+      "chemical": [
+        "Sulfur-based fungicides for mildew control",
+        "Potassium bicarbonate sprays to prevent fungal spread"
+      ],
+      "organic": [
+        "Neem oil spray for natural antifungal action",
+        "Milk spray (1:9 milk to water ratio) to reduce mildew growth"
+      ],
+      "biological": [
+        "Bacillus subtilis-based biocontrol agents"
+      ],
+      "diy": [
+        "Mix 1 tablespoon of baking soda with 1 liter of water and spray on leaves"
+      ],
+      "step_by_step": [
+        "Inspect plants for white powdery patches",
+        "Remove and destroy infected leaves",
+        "Apply fungicides or organic treatments as needed",
+        "Improve air circulation by pruning dense foliage"
+      ]
+    },
+    "recovery": {
+      "monitoring": "Check weekly for new infections",
+      "nutrient_boost": "Use balanced fertilizers to strengthen plant immunity",
+      "soil_treatment": "Maintain proper pH levels for fungal suppression"
+    },
+    "expert_advice": {
+      "pro_tips": [
+        "Grow squash in well-ventilated areas with good sunlight",
+        "Water early in the morning to allow leaves to dry quickly"
+      ],
+      "mistakes": [
+        "Ignoring early signs of mildew, allowing rapid spread",
+        "Overfertilizing with nitrogen, making plants more susceptible"
+      ]
+    },
+    "market": {
+      "best_products": [
+        "Sulfur-based fungicide for mildew prevention",
+        "Neem oil for organic disease control",
+        "Mulching materials to reduce soil moisture loss"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local gardening stores",
+        "Online agricultural suppliers"
+      ]
+    }
+  },
+  "Strawberry___Leaf_scorch": {
+    "scientific_name": "Diplocarpon earlianum",
+    "common_name": "Leaf Scorch in Strawberries",
+    "description": "A fungal disease causing brown, dry spots on strawberry leaves, affecting plant growth and fruit yield.",
+    "symptoms": [
+      "Small reddish-purple spots on leaves",
+      "Progression to brown, scorched leaf edges",
+      "Reduced fruit production and weak plant growth"
+    ],
+    "causes": [
+      "Fungal infection due to high humidity",
+      "Prolonged wet conditions on leaves",
+      "Poor air circulation among plants"
+    ],
+    "risk_factor": [
+      "Warm, wet weather conditions",
+      "Dense planting with restricted airflow",
+      "Overhead watering keeping leaves wet for long periods"
+    ],
+    "prevention": [
+      "Plant strawberries in well-ventilated areas",
+      "Avoid watering leaves; use drip irrigation instead",
+      "Mulch around plants to reduce soil splash"
+    ],
+    "best_practices": [
+      "Remove and destroy infected leaves promptly",
+      "Ensure proper plant spacing to reduce humidity",
+      "Use resistant strawberry varieties"
+    ],
+    "treatments": {
+      "chemical": [
+        "Copper-based fungicides for early-stage control",
+        "Chlorothalonil sprays to prevent fungal spread"
+      ],
+      "organic": [
+        "Neem oil or sulfur spray for natural antifungal treatment",
+        "Baking soda solution to prevent fungal growth"
+      ],
+      "biological": [
+        "Trichoderma-based biocontrol agents"
+      ],
+      "diy": [
+        "Mix 1 tablespoon of baking soda with 1 liter of water and spray on affected leaves"
+      ],
+      "step_by_step": [
+        "Inspect plants for early signs of leaf scorch",
+        "Prune infected leaves and discard properly",
+        "Apply organic or chemical treatments as needed",
+        "Maintain dry foliage by watering at soil level"
+      ]
+    },
+    "recovery": {
+      "monitoring": "Check for new symptoms weekly",
+      "nutrient_boost": "Use balanced fertilizers to strengthen plant immunity",
+      "soil_treatment": "Ensure well-draining soil to prevent moisture buildup"
+    },
+    "expert_advice": {
+      "pro_tips": [
+        "Space plants properly to promote air circulation",
+        "Water early in the morning to allow leaves to dry"
+      ],
+      "mistakes": [
+        "Leaving infected leaves on the plant, allowing spread",
+        "Using overhead irrigation, increasing moisture retention"
+      ]
+    },
+    "market": {
+      "best_products": [
+        "Copper-based fungicide for effective treatment",
+        "Neem oil for organic disease control",
+        "Mulching sheets for soil protection"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local gardening stores",
+        "Online agricultural suppliers"
+      ]
+    }
+  },
+  "Strawberry___healthy": {
+    "scientific_name": "Fragaria × ananassa",
+    "common_name": "Healthy Strawberry Plant",
+    "description": "No disease detected. The strawberry plant is in excellent health.",
+    "symptoms": [
+      "Lush green leaves with no spots or discoloration",
+      "Healthy runners and flowers",
+      "No signs of fungal growth, wilting, or pest damage"
+    ],
+    "care_tips": [
+      "Water at the base of the plant to keep foliage dry",
+      "Mulch around plants to retain moisture and prevent soil splash",
+      "Use balanced fertilizers rich in phosphorus and potassium"
+    ],
+    "best_practices": [
+      "Rotate crops to prevent soil-borne diseases",
+      "Remove old leaves and debris to improve airflow",
+      "Ensure proper spacing to reduce humidity around plants"
+    ],
+    "climate_soil": {
+      "preferred_climate": "Cool to mild temperatures with adequate sunlight",
+      "soil_requirements": "Loamy, well-draining soil rich in organic matter"
+    },
+    "fertilization": [
+      "Apply a balanced 10-10-10 fertilizer every 4–6 weeks",
+      "Use compost or aged manure for organic growth",
+      "Avoid excessive nitrogen to prevent excessive foliage growth"
+    ],
+    "market": {
+      "best_products": [
+        "Strawberry-specific fertilizers",
+        "Mulching sheets for moisture retention",
+        "Organic pest control solutions"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local gardening stores",
+        "Online agricultural suppliers"
+      ]
+    }
+  },
+  "Tomato___Bacterial_spot": {
+    "scientific_name": "Xanthomonas campestris pv. vesicatoria",
+    "common_name": "Bacterial Spot in Tomatoes",
+    "description": "A bacterial infection causing black spots on tomato leaves, stems, and fruit, leading to reduced yield.",
+    "symptoms": [
+      "Small, dark water-soaked spots on leaves",
+      "Yellowing and wilting of infected foliage",
+      "Black, sunken lesions on fruit, making them unmarketable"
+    ],
+    "causes": [
+      "Spread through contaminated seeds, soil, or water",
+      "Warm, humid conditions favoring bacterial growth",
+      "Overhead watering promoting disease spread"
+    ],
+    "risk_factor": [
+      "High humidity and warm temperatures (75–85°F)",
+      "Infected seeds or transplants",
+      "Poor air circulation due to dense planting"
+    ],
+    "prevention": [
+      "Use certified disease-free seeds and seedlings",
+      "Avoid overhead watering; use drip irrigation",
+      "Rotate crops and remove infected plant debris"
+    ],
+    "best_practices": [
+      "Spray copper-based bactericides preventively",
+      "Prune lower leaves to reduce humidity buildup",
+      "Ensure proper spacing to improve airflow"
+    ],
+    "treatments": {
+      "chemical": [
+        "Copper-based bactericides to slow disease spread",
+        "Antibiotic sprays (streptomycin) for infected plants"
+      ],
+      "organic": [
+        "Neem oil spray to control bacterial growth",
+        "Garlic extract solution as a natural antibacterial"
+      ],
+      "biological": [
+        "Bacillus subtilis-based biocontrol agents"
+      ],
+      "diy": [
+        "Mix 1 tablespoon of baking soda with 1 liter of water and spray on infected leaves"
+      ],
+      "step_by_step": [
+        "Identify infected plants early",
+        "Remove and destroy infected leaves and fruits",
+        "Apply copper-based treatments as needed",
+        "Maintain proper soil drainage and airflow"
+      ]
+    },
+    "recovery": {
+      "monitoring": "Check weekly for new infections",
+      "nutrient_boost": "Use phosphorus-rich fertilizers to strengthen plants",
+      "soil_treatment": "Sterilize soil before planting to eliminate bacteria"
+    },
+    "expert_advice": {
+      "pro_tips": [
+        "Avoid working with plants when leaves are wet",
+        "Space tomato plants at least 2 feet apart to improve airflow"
+      ],
+      "mistakes": [
+        "Using infected seeds without proper treatment",
+        "Watering plants from above, spreading bacteria further"
+      ]
+    },
+    "market": {
+      "best_products": [
+        "Copper-based bactericide for disease prevention",
+        "Neem oil for organic bacterial control",
+        "Mulching sheets to prevent soil splash"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local gardening stores",
+        "Online agricultural suppliers"
+      ]
+    }
+  },
+  "Tomato___Early_blight": {
+    "scientific_name": "Alternaria solani",
+    "common_name": "Early Blight in Tomatoes",
+    "description": "A fungal disease causing dark, concentric rings on tomato leaves, stems, and fruit, leading to early plant decline.",
+    "symptoms": [
+      "Brown spots with concentric rings on older leaves",
+      "Yellowing and wilting of infected foliage",
+      "Dark, sunken lesions on stems and fruit"
+    ],
+    "causes": [
+      "Fungal spores spread through wind, water, and soil",
+      "High humidity and prolonged leaf wetness",
+      "Poor air circulation among plants"
+    ],
+    "risk_factor": [
+      "Frequent rain and high humidity",
+      "Overwatering and poor drainage",
+      "Infected plant debris left in the soil"
+    ],
+    "prevention": [
+      "Rotate crops to prevent soil-borne fungal buildup",
+      "Mulch around plants to reduce soil splash",
+      "Prune lower leaves to improve airflow"
+    ],
+    "best_practices": [
+      "Apply fungicides preventively in high-risk areas",
+      "Water at the base of plants to keep foliage dry",
+      "Use resistant tomato varieties"
+    ],
+    "treatments": {
+      "chemical": [
+        "Chlorothalonil-based fungicides for control",
+        "Copper-based sprays for fungal suppression"
+      ],
+      "organic": [
+        "Neem oil and sulfur sprays for natural disease management",
+        "Baking soda solution to alter leaf pH and inhibit fungal growth"
+      ],
+      "biological": [
+        "Trichoderma-based biocontrol agents"
+      ],
+      "diy": [
+        "Mix 1 tablespoon of baking soda with 1 liter of water and apply to leaves"
+      ],
+      "step_by_step": [
+        "Inspect plants regularly for early symptoms",
+        "Remove infected leaves to reduce disease spread",
+        "Apply organic or chemical treatments as needed",
+        "Improve air circulation through proper pruning"
+      ]
+    },
+    "recovery": {
+      "monitoring": "Check for new symptoms weekly",
+      "nutrient_boost": "Use phosphorus and potassium-based fertilizers",
+      "soil_treatment": "Ensure proper soil drainage to prevent waterlogging"
+    },
+    "expert_advice": {
+      "pro_tips": [
+        "Space plants properly to promote airflow",
+        "Water in the morning to allow leaves to dry quickly"
+      ],
+      "mistakes": [
+        "Ignoring early symptoms, allowing the disease to spread",
+        "Leaving infected leaves on plants instead of removing them"
+      ]
+    },
+    "market": {
+      "best_products": [
+        "Chlorothalonil fungicide for effective control",
+        "Neem oil for organic disease management",
+        "Mulching materials to reduce soil splash"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local gardening stores",
+        "Online agricultural suppliers"
+      ]
+    }
+  },
+  "Tomato___Late_blight": {
+    "scientific_name": "Phytophthora infestans",
+    "common_name": "Late Blight in Tomatoes",
+    "description": "A severe fungal disease causing water-soaked lesions on tomato leaves and fruit, leading to rapid plant decay.",
+    "symptoms": [
+      "Dark, water-soaked spots on leaves, stems, and fruit",
+      "White fungal growth under high humidity",
+      "Rapid wilting and plant death"
+    ],
+    "causes": [
+      "Fungal spores spread through wind, rain, and contaminated soil",
+      "High humidity and prolonged leaf wetness",
+      "Overcrowding and poor air circulation"
+    ],
+    "prevention": [
+      "Plant resistant tomato varieties",
+      "Avoid overhead watering; use drip irrigation",
+      "Rotate crops to prevent soil-borne infections"
+    ],
+    "treatments": {
+      "chemical": [
+        "Copper-based fungicides for prevention",
+        "Chlorothalonil sprays to slow infection spread"
+      ],
+      "organic": [
+        "Neem oil for mild infections",
+        "Baking soda spray to reduce fungal growth"
+      ]
+    },
+    "market": {
+      "best_products": [
+        "Fungicides for late blight control",
+        "Mulch to prevent soil splash",
+        "Disease-resistant tomato seeds"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local garden centers",
+        "Online agricultural stores"
+      ]
+    }
+  },
+  "Tomato___Leaf_Mold": {
+    "scientific_name": "Passalora fulva",
+    "common_name": "Leaf Mold in Tomatoes",
+    "description": "A fungal infection causing yellow spots on tomato leaves, reducing photosynthesis and plant vigor.",
+    "symptoms": [
+      "Pale yellow spots on upper leaf surfaces",
+      "Velvety olive-green mold on undersides of leaves",
+      "Premature leaf drop leading to reduced fruit production"
+    ],
+    "causes": [
+      "High humidity and poor ventilation",
+      "Overwatering and prolonged leaf wetness",
+      "Dense foliage creating ideal fungal conditions"
+    ],
+    "prevention": [
+      "Ensure good air circulation by pruning excess foliage",
+      "Avoid overhead watering to keep leaves dry",
+      "Use resistant tomato varieties when available"
+    ],
+    "treatments": {
+      "chemical": [
+        "Mancozeb-based fungicides for effective control",
+        "Copper sprays for fungal prevention"
+      ],
+      "organic": [
+        "Sulfur-based fungicides for organic control",
+        "Milk spray (diluted 1:10 with water) to reduce fungal growth"
+      ]
+    },
+    "market": {
+      "best_products": [
+        "Fungicides for leaf mold treatment",
+        "Organic sulfur-based treatments",
+        "Disease-resistant tomato seeds"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local garden stores",
+        "Online nurseries"
+      ]
+    }
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "scientific_name": "Septoria lycopersici",
+    "common_name": "Septoria Leaf Spot in Tomatoes",
+    "description": "A fungal disease causing small brown spots on tomato leaves, leading to defoliation and reduced yield.",
+    "symptoms": [
+      "Small, circular brown spots with light centers",
+      "Lower leaves affected first, progressing upwards",
+      "Premature leaf drop and reduced plant vigor"
+    ],
+    "causes": [
+      "Fungal spores spread through water splashes and wind",
+      "Warm, wet conditions favor fungal development",
+      "Infected plant debris left in the soil"
+    ],
+    "prevention": [
+      "Rotate crops yearly to prevent fungal buildup",
+      "Water at the base of plants to reduce leaf wetness",
+      "Use mulch to prevent soil splash onto leaves"
+    ],
+    "treatments": {
+      "chemical": [
+        "Chlorothalonil fungicides for effective control",
+        "Copper-based sprays to prevent spread"
+      ],
+      "organic": [
+        "Neem oil as a preventive treatment",
+        "Baking soda solution to alter leaf pH"
+      ]
+    },
+    "market": {
+      "best_products": [
+        "Chlorothalonil fungicide for fungal control",
+        "Neem oil for organic disease management",
+        "Mulching materials to reduce soil splash"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local gardening stores",
+        "Online agricultural suppliers"
+      ]
+    }
+  },
+  "Tomato___Spider_mites_Two-spotted_spider_mite": {
+    "scientific_name": "Tetranychus urticae",
+    "common_name": "Two-Spotted Spider Mite Infestation in Tomatoes",
+    "description": "A pest infestation causing yellowing, stippling, and webbing on tomato leaves, leading to reduced plant health.",
+    "symptoms": [
+      "Tiny yellow specks on leaves, progressing to browning",
+      "Fine webbing on the undersides of leaves",
+      "Leaf curling, drying, and eventual plant decline"
+    ],
+    "causes": [
+      "Hot, dry conditions favor rapid spider mite reproduction",
+      "Overuse of chemical pesticides killing natural predators",
+      "Stress from drought or nutrient deficiencies"
+    ],
+    "prevention": [
+      "Maintain consistent humidity levels to deter mites",
+      "Introduce beneficial insects like ladybugs and predatory mites",
+      "Avoid excessive nitrogen fertilization, which attracts mites"
+    ],
+    "treatments": {
+      "chemical": [
+        "Miticide sprays targeting spider mites",
+        "Insecticidal soaps for controlling infestations"
+      ],
+      "organic": [
+        "Neem oil for natural mite control",
+        "Spraying plants with water to dislodge mites"
+      ]
+    },
+    "market": {
+      "best_products": [
+        "Neem oil for organic pest control",
+        "Insecticidal soap for safe mite treatment",
+        "Beneficial insects for biological control"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local gardening stores",
+        "Online agricultural suppliers"
+      ]
+    }
+  },
+  "Tomato___Target_Spot": {
+    "scientific_name": "Corynespora cassiicola",
+    "common_name": "Target Spot in Tomatoes",
+    "description": "A fungal disease causing large, circular lesions on tomato leaves and fruit, leading to reduced photosynthesis and fruit quality.",
+    "symptoms": [
+      "Dark, circular lesions with concentric rings on leaves and stems",
+      "Yellow halos around spots, leading to leaf drop",
+      "Sunken, dark lesions on fruit, making them unmarketable"
+    ],
+    "causes": [
+      "Fungal spores spread through wind, rain, and contaminated soil",
+      "High humidity and warm temperatures encourage fungal growth",
+      "Overcrowded plants with poor airflow increase risk"
+    ],
+    "prevention": [
+      "Ensure proper plant spacing for better airflow",
+      "Use mulch to prevent soil splash onto leaves",
+      "Rotate crops yearly to reduce fungal spores in soil"
+    ],
+    "treatments": {
+      "chemical": [
+        "Chlorothalonil-based fungicides for control",
+        "Copper-based fungicides as preventive measures"
+      ],
+      "organic": [
+        "Neem oil to slow fungal spread",
+        "Baking soda spray (1 tsp per liter of water) to alter leaf pH"
+      ]
+    },
+    "market": {
+      "best_products": [
+        "Chlorothalonil fungicide for target spot control",
+        "Copper-based sprays for disease prevention",
+        "Mulching materials to reduce soil splash"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local gardening stores",
+        "Online agricultural suppliers"
+      ]
+    }
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "scientific_name": "Tomato yellow leaf curl virus (TYLCV)",
+    "common_name": "Yellow Leaf Curl Virus in Tomatoes",
+    "description": "A viral disease transmitted by whiteflies, causing curled, yellowing leaves and stunted growth in tomato plants.",
+    "symptoms": [
+      "Leaves curl upwards and turn yellow",
+      "Stunted plant growth with reduced fruit production",
+      "Infected plants appear bushy with shortened internodes"
+    ],
+    "causes": [
+      "Whiteflies transmit the virus from infected plants",
+      "Hot, dry climates favor rapid whitefly reproduction",
+      "Presence of infected plant debris near tomato fields"
+    ],
+    "prevention": [
+      "Use yellow sticky traps to monitor and reduce whiteflies",
+      "Introduce natural predators like ladybugs and lacewings",
+      "Plant resistant tomato varieties when available"
+    ],
+    "treatments": {
+      "chemical": [
+        "Insecticidal soaps for whitefly control",
+        "Systemic insecticides to limit virus spread"
+      ],
+      "organic": [
+        "Neem oil as a whitefly repellent",
+        "Garlic or chili sprays to deter whiteflies naturally"
+      ]
+    },
+    "market": {
+      "best_products": [
+        "Neem oil for whitefly control",
+        "Yellow sticky traps for early detection",
+        "Disease-resistant tomato seeds"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local gardening stores",
+        "Online nurseries"
+      ]
+    }
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "scientific_name": "Tomato mosaic virus (ToMV)",
+    "common_name": "Tomato Mosaic Virus",
+    "description": "A highly contagious viral disease causing mottled, distorted leaves and poor fruit development in tomato plants.",
+    "symptoms": [
+      "Light and dark green mottling on leaves",
+      "Leaf curling, wrinkling, and reduced growth",
+      "Small, malformed fruit with uneven ripening"
+    ],
+    "causes": [
+      "Virus spreads through contaminated tools, hands, and infected plants",
+      "Seed-borne transmission in untreated seeds",
+      "Infected weeds acting as reservoirs for the virus"
+    ],
+    "prevention": [
+      "Sanitize garden tools regularly to prevent virus spread",
+      "Avoid handling plants excessively to reduce mechanical transmission",
+      "Use certified virus-free seeds and seedlings"
+    ],
+    "treatments": {
+      "chemical": [
+        "No direct chemical treatment available",
+        "Use systemic insecticides to control aphids (potential vectors)"
+      ],
+      "organic": [
+        "Remove and destroy infected plants immediately",
+        "Use compost tea to boost plant immunity"
+      ]
+    },
+    "market": {
+      "best_products": [
+        "Virus-resistant tomato seeds",
+        "Disinfectant solutions for gardening tools",
+        "Neem oil for aphid management"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local garden centers",
+        "Online agricultural stores"
+      ]
+    }
+  },
+  "Tomato___healthy": {
+    "scientific_name": "Solanum lycopersicum",
+    "common_name": "Healthy Tomato Plant",
+    "description": "No disease detected. The tomato plant is healthy and thriving.",
+    "symptoms": [
+      "Green, vibrant leaves without spots or discoloration",
+      "Strong, sturdy stems with no wilting",
+      "Healthy fruit development without blemishes or deformities"
+    ],
+    "causes": [
+      "Proper watering and nutrient balance",
+      "Good air circulation to prevent fungal growth",
+      "Regular monitoring for pests and early intervention"
+    ],
+    "prevention": [
+      "Maintain a healthy watering schedule to avoid overwatering or drought stress",
+      "Use organic compost and fertilizers for optimal growth",
+      "Rotate crops yearly to maintain soil health"
+    ],
+    "treatments": {
+      "chemical": [
+        "No treatment required as the plant is healthy"
+      ],
+      "organic": [
+        "Continue proper care and preventive measures"
+      ]
+    },
+    "market": {
+      "best_products": [
+        "Organic compost for plant nourishment",
+        "Mulching materials for soil moisture retention",
+        "Neem oil spray for pest prevention"
+      ],
+      "where_to_buy": [
+        "Amazon",
+        "Local garden centers",
+        "Online agricultural stores"
+      ]
+    }
+  }
+}

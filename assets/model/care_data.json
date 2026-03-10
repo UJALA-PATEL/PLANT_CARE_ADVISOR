@@ -1,0 +1,226 @@
+{
+  "tomato": {
+    "scientific_name": "Solanum lycopersicum",
+    "common_name": "Tomato",
+    "description": "Tomatoes require full sun and well-drained soil.",
+    "prevention": ["Avoid overwatering", "Use well-drained soil", "Provide adequate spacing"],
+    "best_practices": ["Mulch to retain moisture", "Use organic compost", "Rotate crops to prevent disease"],
+    "resistant_varieties": ["Roma", "San Marzano", "Cherry Tomato"]
+  },
+  "rose": {
+    "scientific_name": "Rosa",
+    "common_name": "Rose",
+    "description": "Roses need good air circulation and plenty of sunlight.",
+    "prevention": ["Prune regularly to remove dead leaves", "Avoid water on leaves to prevent fungus"],
+    "best_practices": ["Use organic fertilizer", "Deadhead spent flowers", "Plant in a sunny location"],
+    "resistant_varieties": ["Knock Out Rose", "Drift Rose", "Floribunda Rose"]
+  },
+  "mango": {
+    "scientific_name": "Mangifera indica",
+    "common_name": "Mango",
+    "description": "Mango trees need a warm climate and well-drained soil.",
+    "prevention": ["Avoid excessive watering", "Use pest-resistant varieties", "Prune to shape the tree"],
+    "best_practices": ["Provide deep watering in summer", "Fertilize with nitrogen-rich compost", "Protect from strong winds"],
+    "resistant_varieties": ["Alphonso", "Dasheri", "Langra"]
+  },
+  "banana": {
+    "scientific_name": "Musa",
+    "common_name": "Banana",
+    "description": "Banana plants need rich, well-draining soil and plenty of moisture.",
+    "prevention": ["Protect from strong winds", "Avoid standing water"],
+    "best_practices": ["Use potassium-rich fertilizer", "Provide support to prevent falling", "Regularly remove dead leaves"],
+    "resistant_varieties": ["Cavendish", "Grand Nain", "Dwarf Brazilian"]
+  },
+  "cucumber": {
+    "scientific_name": "Cucumis sativus",
+    "common_name": "Cucumber",
+    "description": "Cucumbers require warm temperatures and consistent watering.",
+    "prevention": ["Avoid overcrowding", "Use trellises to keep plants off the ground"],
+    "best_practices": ["Water deeply once a week", "Harvest frequently to encourage growth"],
+    "resistant_varieties": ["Marketmore", "Poinsett 76", "Straight Eight"]
+  },
+  "spinach": {
+    "scientific_name": "Spinacia oleracea",
+    "common_name": "Spinach",
+    "description": "Spinach thrives in cool weather and rich soil.",
+    "prevention": ["Avoid too much heat", "Water regularly but avoid waterlogging"],
+    "best_practices": ["Fertilize with compost", "Harvest leaves regularly to encourage growth"],
+    "resistant_varieties": ["Bloomsdale", "Tyee", "Winter Giant"]
+  },
+  "carrot": {
+    "scientific_name": "Daucus carota",
+    "common_name": "Carrot",
+    "description": "Carrots grow best in deep, loose soil and require moderate watering.",
+    "prevention": ["Avoid excessive watering", "Keep weeds away"],
+    "best_practices": ["Thin plants to prevent crowding", "Use organic fertilizer", "Harvest early for best flavor"],
+    "resistant_varieties": ["Nantes", "Imperator", "Danvers"]
+  },
+  "peanut": {
+    "scientific_name": "Arachis hypogaea",
+    "common_name": "Peanut",
+    "description": "Peanuts need warm, well-drained soil with adequate sunlight.",
+    "prevention": ["Avoid waterlogging", "Remove weeds regularly"],
+    "best_practices": ["Use nitrogen-rich fertilizers", "Ensure proper spacing for better growth"],
+    "resistant_varieties": ["Virginia", "Spanish", "Valencia"]
+  },
+  "potato": {
+    "scientific_name": "Solanum tuberosum",
+    "common_name": "Potato",
+    "description": "Potatoes need cool temperatures and well-drained soil.",
+    "prevention": ["Use certified seed potatoes", "Avoid overwatering"],
+    "best_practices": ["Hill potatoes to protect from sunlight", "Rotate crops to prevent disease"],
+    "resistant_varieties": ["Russet", "Yukon Gold", "Red Bliss"]
+  },
+  "lettuce": {
+    "scientific_name": "Lactuca sativa",
+    "common_name": "Lettuce",
+    "description": "Lettuce grows best in cool, moist conditions.",
+    "prevention": ["Avoid hot weather", "Water regularly"],
+    "best_practices": ["Plant in partial shade", "Fertilize with organic compost"],
+    "resistant_varieties": ["Butterhead", "Romaine", "Iceberg"]
+  },
+  "onion": {
+    "scientific_name": "Allium cepa",
+    "common_name": "Onion",
+    "description": "Onions need well-drained, fertile soil and consistent watering.",
+    "prevention": ["Avoid overwatering", "Use disease-free seeds"],
+    "best_practices": ["Provide deep watering", "Space plants well for air circulation"],
+    "resistant_varieties": ["Yellow Onion", "Red Onion", "Sweet Onion"]
+  },
+  "garlic": {
+    "scientific_name": "Allium sativum",
+    "common_name": "Garlic",
+    "description": "Garlic requires well-drained soil with moderate watering.",
+    "prevention": ["Avoid overwatering", "Control pests like aphids"],
+    "best_practices": ["Plant in fall", "Mulch to protect from winter cold"],
+    "resistant_varieties": ["Hardneck", "Softneck", "Elephant Garlic"]
+  },
+  "chili": {
+    "scientific_name": "Capsicum annuum",
+    "common_name": "Chili",
+    "description": "Chili peppers need warm temperatures and well-drained soil.",
+    "prevention": ["Avoid frost", "Water carefully to prevent fungal diseases"],
+    "best_practices": ["Fertilize with potassium-rich fertilizers", "Harvest when fully ripe"],
+    "resistant_varieties": ["Jalapeno", "Habanero", "Cayenne"]
+  },
+  "okra": {
+    "scientific_name": "Abelmoschus esculentus",
+    "common_name": "Okra",
+    "description": "Okra thrives in warm weather and well-drained soil.",
+    "prevention": ["Avoid waterlogging", "Control pests like aphids"],
+    "best_practices": ["Provide deep watering", "Harvest when pods are young"],
+    "resistant_varieties": ["Clemson Spineless", "Annie Oakley", "Burgundy"]
+  },
+  "aubergine": {
+    "scientific_name": "Solanum melongena",
+    "common_name": "Aubergine (Eggplant)",
+    "description": "Aubergines require full sun and well-drained soil.",
+    "prevention": ["Avoid water stress", "Protect from pests like aphids"],
+    "best_practices": ["Use compost for fertility", "Harvest when fruits are shiny and firm"],
+    "resistant_varieties": ["Black Beauty", "Ichiban", "White Eggplant"]
+  },
+  "pumpkin": {
+    "scientific_name": "Cucurbita pepo",
+    "common_name": "Pumpkin",
+    "description": "Pumpkins require a warm growing season and fertile soil.",
+    "prevention": ["Avoid waterlogging", "Use disease-resistant seeds"],
+    "best_practices": ["Provide plenty of space", "Mulch to retain moisture"],
+    "resistant_varieties": ["Sugar Pie", "Jack-O-Lantern", "Cinderella"]
+  },
+  "zucchini": {
+    "scientific_name": "Cucurbita pepo",
+    "common_name": "Zucchini",
+    "description": "Zucchini thrives in warm temperatures and fertile soil.",
+    "prevention": ["Control pests like squash bugs", "Avoid overcrowding"],
+    "best_practices": ["Water deeply", "Harvest frequently to encourage production"],
+    "resistant_varieties": ["Black Beauty", "Cocozelle", "Gold Rush"]
+  },
+  "watermelon": {
+    "scientific_name": "Citrullus lanatus",
+    "common_name": "Watermelon",
+    "description": "Watermelon needs a warm growing season and plenty of space.",
+    "prevention": ["Avoid excess water", "Provide proper spacing to avoid disease"],
+    "best_practices": ["Use organic mulch", "Ensure pollination for fruit development"],
+    "resistant_varieties": ["Crimson Sweet", "Sugar Baby", "Seedless Watermelon"]
+  },
+  "sweet_potato": {
+    "scientific_name": "Ipomoea batatas",
+    "common_name": "Sweet Potato",
+    "description": "Sweet potatoes grow well in warm climates with loose, well-drained soil.",
+    "prevention": ["Avoid root rot", "Space plants to ensure good air circulation"],
+    "best_practices": ["Use organic compost", "Harvest before the first frost"],
+    "resistant_varieties": ["Beauregard", "Covington", "Jewel"]
+  },
+  "avocado": {
+    "scientific_name": "Persea americana",
+    "common_name": "Avocado",
+    "description": "Avocados require warm temperatures and well-drained, slightly acidic soil.",
+    "prevention": ["Protect from frost", "Avoid overwatering"],
+    "best_practices": ["Provide deep watering", "Use organic mulch", "Regularly prune to maintain shape"],
+    "resistant_varieties": ["Hass", "Fuerte", "Bacon"]
+  },
+  "kiwi": {
+    "scientific_name": "Actinidia deliciosa",
+    "common_name": "Kiwi",
+    "description": "Kiwi plants need well-drained soil, regular watering, and full sun.",
+    "prevention": ["Avoid overwatering", "Protect from frost"],
+    "best_practices": ["Train vines on a trellis", "Regularly prune to improve air circulation"],
+    "resistant_varieties": ["Hardy Kiwi", "Baby Kiwi", "Arctic Kiwi"]
+  },
+  "pineapple": {
+    "scientific_name": "Ananas comosus",
+    "common_name": "Pineapple",
+    "description": "Pineapples need warm temperatures and rich, well-draining soil.",
+    "prevention": ["Avoid overwatering", "Ensure good drainage"],
+    "best_practices": ["Plant in full sun", "Water deeply but not frequently"],
+    "resistant_varieties": ["Queen", "Red Spanish", "Smooth Cayenne"]
+  },
+  "cabbage": {
+    "scientific_name": "Brassica oleracea",
+    "common_name": "Cabbage",
+    "description": "Cabbages prefer cool weather and fertile, well-drained soil.",
+    "prevention": ["Avoid waterlogging", "Control pests like aphids"],
+    "best_practices": ["Fertilize with compost", "Space plants well to improve airflow"],
+    "resistant_varieties": ["Savoy", "Green", "Red"]
+  },
+  "cherry": {
+    "scientific_name": "Prunus avium",
+    "common_name": "Cherry",
+    "description": "Cherries need cool weather and well-drained soil.",
+    "prevention": ["Protect from frost", "Prune regularly to remove dead wood"],
+    "best_practices": ["Water deeply during dry spells", "Use organic mulch", "Apply compost to promote growth"],
+    "resistant_varieties": ["Bing", "Rainier", "Montmorency"]
+  },
+  "blueberry": {
+    "scientific_name": "Vaccinium corymbosum",
+    "common_name": "Blueberry",
+    "description": "Blueberries prefer acidic, well-drained soil and plenty of sun.",
+    "prevention": ["Avoid planting in clay soil", "Mulch around the roots"],
+    "best_practices": ["Water regularly but don't overwater", "Fertilize with organic matter", "Prune annually"],
+    "resistant_varieties": ["Legacy", "Bluecrop", "Patriot"]
+  },
+  "apple": {
+    "scientific_name": "Malus domestica",
+    "common_name": "Apple",
+    "description": "Apple trees need full sun and well-drained soil.",
+    "prevention": ["Prune dead wood", "Protect from pests like codling moths"],
+    "best_practices": ["Provide adequate spacing for airflow", "Use mulch to conserve moisture"],
+    "resistant_varieties": ["Granny Smith", "Fuji", "Golden Delicious"]
+  },
+  "pear": {
+    "scientific_name": "Pyrus",
+    "common_name": "Pear",
+    "description": "Pear trees thrive in full sun with well-drained, fertile soil.",
+    "prevention": ["Prune to maintain shape", "Avoid overcrowding"],
+    "best_practices": ["Water regularly", "Fertilize with balanced fertilizer", "Control pests like aphids"],
+    "resistant_varieties": ["Bartlett", "Bosc", "Anjou"]
+  },
+  "plum": {
+    "scientific_name": "Prunus domestica",
+    "common_name": "Plum",
+    "description": "Plum trees need full sun and well-drained soil.",
+    "prevention": ["Avoid overwatering", "Prune regularly to remove dead or diseased wood"],
+    "best_practices": ["Water deeply", "Use organic mulch", "Apply balanced fertilizer"],
+    "resistant_varieties": ["Santa Rosa", "European Plum", "Methley"]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "300689053101",
+    "project_id": "demoplantproject",
+    "storage_bucket": "demoplantproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300689053101:android:e30099f9acea9485bbbd24",
+        "android_client_info": {
+          "package_name": "com.example.sejjjjj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxkWPP7BDPoiRQ2HZCakJev4ZXM3hcsFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
